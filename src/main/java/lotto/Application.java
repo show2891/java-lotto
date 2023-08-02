@@ -10,6 +10,7 @@ public class Application {
         Integer lottoCount = calculateLottoCount(money);
 
         String[] winNumbers = getWinNumbers();
+        System.out.println("test");
     }
 
 
